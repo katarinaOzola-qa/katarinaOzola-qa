@@ -1,4 +1,4 @@
-<iframe src="https://gifer.com/embed/Ao" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">
+https://i.gifer.com/origin/ff/ff88888459f390b30438e162769be571_w200.webp
 
 
 
