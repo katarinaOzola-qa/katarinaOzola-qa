@@ -1,13 +1,9 @@
 
-![Ao — малый размер](https://github.com/katarinaOzola-qa/katarinaOzola-qa/assets/148257986/91ec27af-aba2-4455-afcb-61658dbac7ee)
+![imgonline-com-ua-Resize-6Wqo2KlcDjo5u](https://github.com/katarinaOzola-qa/katarinaOzola-qa/assets/148257986/c5cc010a-06fd-418c-8133-fd86b3edaed5)
 
+👋 Hello,world!
 
-
-- 👋 Hi, I’m @katarinaOzola-qa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+As a QA engineer, I am passionate about ensuring software quality. My interests lie in various testing methodologies and tools. I am committed to continuous learning and staying updated on industry best practices. Excited to collaborate on innovative projects and contribute to delivering high-quality software solutions 🥰
 
 <!---
 katarinaOzola-qa/katarinaOzola-qa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
