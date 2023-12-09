@@ -1,4 +1,5 @@
-https://i.gifer.com/origin/ff/ff88888459f390b30438e162769be571_w200.webp
+
+![Ao — малый размер](https://github.com/katarinaOzola-qa/katarinaOzola-qa/assets/148257986/91ec27af-aba2-4455-afcb-61658dbac7ee)
 
 
 
